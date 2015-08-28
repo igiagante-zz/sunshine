@@ -4,6 +4,8 @@
     <string name="action_settings">Settings</string>
     <string name="action_refresh">Refresh</string>
 
+    <string name="weather">Weather</string>
+
     <string-array name="array_forecast">
         <item>Today - Sunny - 88 / 63</item>
         <item>Tomorrow - Foggy - 70 / 46</item>
@@ -12,4 +14,10 @@
         <item>Fri - Foggy - 70 / 46</item>
         <item>Sat - Sunny - 76 / 68</item>
     </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">SettingsAcitivity</string>
+
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key">location</string>
+    <string name="pref_location_default">94043</string>
 </resources>
